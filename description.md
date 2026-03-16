@@ -21,7 +21,7 @@
 | Tech Lead | [Волков А А] | [volkov-vaa@yandex.ru/@Andrey_VAA] |
 
 
-**Репозиторий:** `github.com/company/industrial-knowledge-base`
+**Репозиторий:** `[github.com/company/industrial-knowledge-base](https://github.com/andrvolkov-dev/Industrial-Knowledge-Base-Platform)`
 
 ---
 
